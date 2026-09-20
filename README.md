@@ -12,5 +12,10 @@ The Numpad has an indicator light for when Num Lock is active. <br>
 <br>
 Here's a video <br> 
 
+I designed the PCB in KiCad.
+Parts were 3D printed from files I designed using AutoDesk Inventor. <br> 
 
+I was looking for something to make to give myself a little bit of familiarity with PCB design, so I decided to make a numpad. <br>
+
+The keyboards firmware is on a Elite-PI RP2040 Microcontroller, made using QMK Keyboard Firmware. <br>
 
