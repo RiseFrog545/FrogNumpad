@@ -8,9 +8,7 @@ Standard 17 Keys, 2 Macro Keys
 <br>
 The Numpad has an indicator light for when Num Lock is active. <br> 
 
-(https://github.com/user-attachments/assets/402f14e3-4c8d-4292-85e3-ebc5f5f5098b)
-<br>
-Here's a video <br> 
+![Here's a video](https://github.com/user-attachments/assets/155d4378-ba85-4574-93d6-ff7467926ca2)
 
 I designed the PCB in KiCad.
 Parts were 3D printed from files I designed using AutoDesk Inventor. <br> 
