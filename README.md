@@ -8,7 +8,7 @@ Standard 17 Keys, 2 Macro Keys
 <br>
 The Numpad has an indicator light for when Num Lock is active. <br> 
 
-html<video src="[PASTE_YOUR_GITHUB_LINK_HERE](https://github.com/user-attachments/assets/3b42df78-5d04-49f5-84b4-d60dceac364e
+<video src="[PASTE_YOUR_GITHUB_LINK_HERE](https://github.com/user-attachments/assets/3b42df78-5d04-49f5-84b4-d60dceac364e
 )" controls="controls" style="max-width: 100%;">
 </video>
 
