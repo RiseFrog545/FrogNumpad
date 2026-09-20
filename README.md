@@ -10,7 +10,9 @@ The Numpad has an indicator light for when Num Lock is active. <br>
 
 
 
-https://github.com/user-attachments/assets/3acc5820-81b8-40de-afbf-8cc6f0322280
+
+
+https://github.com/user-attachments/assets/3b42df78-5d04-49f5-84b4-d60dceac364e
 <br>
 Here's a video <br> 
 
