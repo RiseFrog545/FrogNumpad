@@ -19,3 +19,4 @@ I was looking for something to make to give myself a little bit of familiarity w
 
 The keyboards firmware is on a Elite-PI RP2040 Microcontroller, made using QMK Keyboard Firmware. <br>
 
+The keyboard plate currently has 2 versions, one with an OSU block-O, and the other with my frog logo <br>
